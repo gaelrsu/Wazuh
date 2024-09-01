@@ -3,8 +3,8 @@
 ## Server
 Download script install Wazuh, + ex config indexer
 ```
-curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
-curl -sO https://packages.wazuh.com/4.7/config.yml
+curl -sO https://packages.wazuh.com/4.8/wazuh-install.sh
+curl -sO https://packages.wazuh.com/4.8/config.yml
 # configure the config.yml
 ```
 Install
